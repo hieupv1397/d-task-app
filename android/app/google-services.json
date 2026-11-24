@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "701442676978",
+    "project_id": "dtask-app-f4e2c",
+    "storage_bucket": "dtask-app-f4e2c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701442676978:android:ccbf7fa9ee1e3520a7186b",
+        "android_client_info": {
+          "package_name": "vn.hica.dtask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgKWZE0ML_sCO2M4VA9A8gcdDeudJScz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
