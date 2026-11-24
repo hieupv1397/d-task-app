@@ -1,0 +1,4 @@
+# Thư mục chứa khóa bí mật: KHÔNG đưa lên git. Chỉ README.md được phép commit.
+*
+!.gitignore
+!README.md

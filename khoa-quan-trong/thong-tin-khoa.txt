@@ -1,0 +1,9 @@
+Thông tin khóa ký tải lên Google Play của app D Task (vn.hica.dtask)
+(Không chứa mật khẩu. Mật khẩu nằm trong key.properties)
+
+Alias name: upload
+Creation date: 4 thg 11, 2026
+Owner: CN=hica.vn, O=hica.vn, C=VN
+Valid from: Wed Nov 04 15:49:22 ICT 2026 until: Sun Mar 22 15:49:22 ICT 2054
+SHA1: FB:21:51:2C:CA:6B:D8:B0:3F:17:A4:DD:6C:AC:FE:C1:70:48:1E:2E
+SHA256: C4:FB:E0:CC:F8:BE:28:88:09:B9:6D:FE:83:12:61:4A:B7:D1:D3:22:31:36:A2:AA:54:12:F8:06:E4:09:9C:E4
