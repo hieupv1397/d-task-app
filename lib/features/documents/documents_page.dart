@@ -25,10 +25,12 @@ const docStatusLabels = {
   'REJECTED': 'Bị từ chối',
   'COMPLETED': 'Hoàn tất',
   'CANCELLED': 'Đã hủy',
+  'REVOKED': 'Đã thu hồi',
 };
 
 Color docStatusColor(String s) => switch (s) {
       'COMPLETED' => Brand.ok,
+      'REVOKED' => const Color(0xFFC8202F),
       'REJECTED' => Brand.bad,
       'IN_SIGNING' => Brand.warn,
       _ => const Color(0xFF8C9BB0),
